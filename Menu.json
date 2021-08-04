@@ -1,5 +1,6 @@
 [
     {
+      "id":1,
       "title":"Chapathi",
            "headline":"An Indian bread served fresh from the tawa.",
            "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/Chapathi.imageset/kisspng-roti-canai-naan-paratha-indian-cuisine-bread-5aca1903a42780.4967419815231941156724-removebg-preview.png?raw=true",
@@ -9,6 +10,7 @@
            "category": "Vegetarian"
            },
            {
+                "id":2,
       "title":"Parotta",
            "headline":"A South Indian bread flaky with layers.",
            "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/parotta.imageset/image-removebg-preview-24.png?raw=true",
@@ -18,6 +20,7 @@
            "category": "Vegetarian"
            },
            {
+                "id":3,
       "title":"Naan",
            "headline":"The greatest North Indian flatbread ever.",
            "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/garlicnaan.imageset/image-removebg-preview-21.png?raw=true",
@@ -27,6 +30,7 @@
            "category": "Vegetarian"
            },
            {
+                "id":4,
     "title":"Methi Paratha",
          "headline": "A spicy North Indian bread made with fenugreek leaves.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/Methi-Paratha-3.imageset/Methi-Paratha-3-removebg-preview-2.png?raw=true",
@@ -36,6 +40,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":5,
     "title":"Aloo Paratha",
          "headline": "A spicy potato filled bread served.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/AlooParatha.imageset/AlooParatha-removebg-preview.png?raw=true",
@@ -45,6 +50,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":6,
     "title": "Idli",
          "headline": "One of the world’s healthiest foods to eat.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/Idli.imageset/idli-removebg-preview.png?raw=true",
@@ -54,6 +60,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":7,
     "title": "Paniyaram",
          "headline": "A bite sized breakfast for yours truly.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/Paniyaram.imageset/image-removebg-preview-9.png?raw=true",
@@ -63,6 +70,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":8,
     "title": "Pongal",
           "headline": "A delicacy made with ghee in South India.",
           "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/Pongal.imageset/image-removebg-preview-2.png?raw=true",
@@ -72,6 +80,7 @@
           "category": "Vegetarian"
          },
          {
+              "id":9,
     "title":  "Vegetable Rava Kichidi",
          "headline": "A type of meal to dig straight in.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/Kichidi.imageset/Kichidi-removebg-preview.png?raw=true",
@@ -81,6 +90,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":10,
     "title":  "Tomato Idiyappam",
          "headline": "Steamed lentil noodles cover with masala",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/tomato.imageset/image-removebg-preview-4.png?raw=true",
@@ -90,6 +100,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":11,
     "title":"Methi Corn Pulav",
           "headline": "An alternate to biriyani, with fenugreek and corn.",
           "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/MethiPulav.imageset/Unknown-removebg-preview-2.png?raw=true",
@@ -99,6 +110,7 @@
           "category": "Vegetarian"
          },
          {
+              "id":12,
     "title":"Vegetable Biryani",
          "headline": "An option for vegetarians, who devour masala.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/VegBiriyani.imageset/image-removebg-preview-4.png?raw=true",
@@ -108,6 +120,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":13,
     "title":"Curd Rice",
          "headline": "Give yourself a cool day.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/curdrice.imageset/image-removebg-preview-5.png?raw=true",
@@ -117,6 +130,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":14,
     "title":"Chicken Fried Rice",
          "headline": "Bring out the inner chinese foodie.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/chkrice.imageset/image-removebg-preview-9.png?raw=true",
@@ -126,6 +140,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":15,
     "title":"Chicken Biryani",
          "headline": "Straight from the rice to chicken, all natural.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/chkbiriyani.imageset/chkbiriyani.png?raw=true",
@@ -135,6 +150,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":16,
     "title":"Chilli Paneer",
          "headline": "A great option for cheese lovers.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/chilpaneer.imageset/8870677_chilli-chilli-paneer-png-hd-png-download-removebg-preview.png?raw=true",
@@ -144,6 +160,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":17,
     "title":"Cauliflower 65",
          "headline": "An option for both veg and non veg lovers.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/gobi65.imageset/food-indian-cuisine-gobi-manchurian-menu-removebg-preview.png?raw=true",
@@ -153,6 +170,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":18,
     "title":"Red Chicken Fry",
          "headline": "A sauteed chicken with endless taste.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/redchk.imageset/redchk.png?raw=true",
@@ -162,6 +180,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":19,
     "title":"Egg Kurma",
          "headline": "A medium option for tasty gravy.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/eggkurma.imageset/1-removebg-preview.png?raw=true",
@@ -171,6 +190,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":20,
     "title":"Chicken Kheema",
          "headline": "Minced chicken made into a delicacy.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/chkkhema.imageset/image-removebg-preview-10.png?raw=true",
@@ -180,6 +200,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":21,
     "title":"Sambar",
          "headline": "A dal to Idli and Pongal, with vegetables.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/sambar.imageset/image-removebg-preview-6.png?raw=true",
@@ -189,6 +210,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":22,
     "title":"Paneer Butter Masala",
          "headline": "A side to Chapathi, and literally greatness.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/paneermasala.imageset/paneermasala-removebg-preview.png?raw=true",
@@ -198,6 +220,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":23,
     "title":"Chicken Kothu Parotta",
          "headline": "Minced chicken + gravy + parotta = BOOM.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/chkkothu.imageset/image-removebg-preview-8.png?raw=true",
@@ -207,6 +230,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":24,
     "title":"Mutton Chops",
          "headline": "Chops are better than your local iHops.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/muttonchops.imageset/image-removebg-preview-25.png?raw=true",
@@ -216,6 +240,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":25,
     "title":"Fish Fry",
          "headline": "Fresh kingfish fry to your heart.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/fishfry.imageset/image-removebg-preview-16.png?raw=true",
@@ -225,6 +250,7 @@
          "category": "Seafood"
          },
          {
+              "id":26,
     "title":"Quail Masala",
          "headline": "Fresh Quail mixed with onions and masala.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/quailmasala.imageset/image-removebg-preview-17.png?raw=true",
@@ -234,6 +260,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":27,
     "title":"Quail Fry",
          "headline": "Oil fried quail with masala.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/quailfry.imageset/image-removebg-preview-18.png?raw=true",
@@ -243,6 +270,7 @@
          "category": "Non - Vegetarian"
          },
          {
+              "id":28,
     "title":"Anchovy Fry",
          "headline": "Small as a finger, tastes way better.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/nethilifry.imageset/image-removebg-preview-19.png?raw=true",
@@ -252,6 +280,7 @@
          "category": "Seafood"
          },
          {
+              "id":29,
     "title":"Tomato Chutney",
          "headline": "Mixed with tomato and spices to create a masterpiece.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/tomatochutney.imageset/image-removebg-preview-11.png?raw=true",
@@ -261,6 +290,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":30,
     "title":"Coconut Chutney",
          "headline": "Fresh coconut grinded with exotic spices like first class.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/coconutchutney.imageset/image-removebg-preview-12.png?raw=true",
@@ -270,6 +300,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":31,
     "title":"Mint Chutney",
          "headline": "Mint from the garden turned into a wonderful piece of art.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/mintchutney.imageset/image-removebg-preview-13.png?raw=true",
@@ -279,6 +310,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":32,
     "title":"Idli Podi - Gunpowder",
          "headline": "Red chilies and grains mixed and grinded to create a soft powder.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/gunpowder.imageset/image-removebg-preview-14.png?raw=true",
@@ -288,6 +320,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":33,
     "title":"Avocado Dip",
          "headline": "Ripe mexican avocados with curd to make a creamy dip.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/avocado.imageset/image-removebg-preview-15.png?raw=true",
@@ -297,6 +330,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":34,
     "title":"Gulab Jamun",
          "headline": "Fried dough balls soaked in sugar syrup.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/gj.imageset/gj-removebg-preview.png?raw=true",
@@ -306,6 +340,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":35,
     "title":"Jalebi",
          "headline": "A North Indian sweet found fresh at any stall.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/ji.imageset/jalebi-removebg-preview.png?raw=true",
@@ -315,6 +350,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":36,
     "title":"Rose Milk",
          "headline": "Beat the heat with Rose Milk",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/rose.imageset/image-removebg-preview-14.png?raw=true",
@@ -324,6 +360,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":37,
     "title":"Mango Lassi",
          "headline": "The ones who drink are cool.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/mango.imageset/image-removebg-preview-6.png?raw=true",
@@ -333,6 +370,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":38,
     "title":"Aam Paana",
          "headline": "A minty mangoey drink.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/aam.imageset/image-removebg-preview-7.png?raw=true",
@@ -342,6 +380,7 @@
          "category": "Vegetarian"
          },
          {
+              "id":39,
     "title":"Lemon Juice",
          "headline": "When life gives you lemons, make lemon juice.",
          "image":"https://github.com/HSSwift/SMK/blob/main/Menu%20Items/lemon.imageset/image-removebg-preview-11.png?raw=true",
